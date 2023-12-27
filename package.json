@@ -1,0 +1,26 @@
+{
+  "name": "realm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@keus-automation/kiotp-realtime-js": "^1.0.2",
+    "@keus-automation/realm-model-builder": "^1.0.6",
+    "@keus-automation/realm-service-client-js": "^1.0.1",
+    "@keus-automation/realm-service-server": "^1.0.1",
+    "core-js": "^3.33.0",
+    "fast-json": "^3.0.0",
+    "mongod": "^2.0.0",
+    "mongodb": "^5.7.0",
+    "realm": "^12.2.1"
+  },
+  "devDependencies": {
+    "@types/babel__core": "^7.20.4",
+    "@types/jest": "^29.5.8"
+  }
+}

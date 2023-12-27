@@ -1,0 +1,15 @@
+export const dbmap={
+    areas:0,
+    floors:0,
+    rooms:0,
+    devices:0,
+    gmdevices:0,
+    gmappliances:0,
+    groups:0,
+    gmgroups:0,
+    scenes:0,
+    irremotes:0,
+    schedules:0,
+    gateways:0,
+    favourites:0,
+}

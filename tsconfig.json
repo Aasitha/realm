@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        // ... other options
+        "esModuleInterop": true,
+        "module": "CommonJS",
+        "allowJs": false,
+        "resolveJsonModule": true,
+        // ... other options
+        //"experimentalDecorators": true
+        "outDir": "./build",
+        "target": "esnext"
+    },
+    "exclude": ["node_modules"]
+}

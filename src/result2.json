@@ -1,0 +1,63 @@
+{
+  "remoteId": "mLLNyVdzwW",
+  "irDevice": "0x00124b00238d8aff",
+  "companyId": "MTSBSH",
+  "modelId": "PJZ502704AA",
+  "remoteName": "IR AC",
+  "remoteType": 0,
+  "remoteProperties": {
+    "temperatureRange": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "swingHEnabled": false,
+    "swingHSelectType": 0,
+    "swingHOptions": [],
+    "swingVEnabled": true,
+    "swingVSelectType": 0,
+    "swingVOptions": [
+      "OFF",
+      "AUTO"
+    ],
+    "modeEnabled": true,
+    "modeSelectType": 0,
+    "modeOptions": [
+      "COOL",
+      "DRY",
+      "FAN",
+      "HEAT"
+    ],
+    "fanEnabled": true,
+    "fanSelectType": 0,
+    "fanOptions": [
+      "LOW",
+      "MEDIUM",
+      "HIGH"
+    ]
+  },
+  "remoteState": {
+    "powerOn": false,
+    "temperature": 24,
+    "swingHLevel": null,
+    "swingVLevel": "OFF",
+    "mode": "COOL",
+    "fanLevel": "MEDIUM",
+    "updateType": 0
+  },
+  "lastUpdateTime": 1690693052296,
+  "lastUpdateBy": "+919381214944",
+  "lastUpdateUser": null,
+  "lastUpdateSource": "ios"
+}
